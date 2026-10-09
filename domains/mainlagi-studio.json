@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "USERNAME_GITHUB_KAMU"
+  },
+  "record": {
+    "NS": [
+      "stella.ns.cloudflare.com",
+      "trace.ns.cloudflare.com"
+    ]
+  }
+}
